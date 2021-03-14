@@ -1,7 +1,7 @@
 {
-  "name": "learn-starter",
+  "name": "blog-xiaoqian",
   "version": "0.1.0",
-  "private": true,
+  "author": "Rebecca Chan",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
