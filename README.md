@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+#### V0.1.0
+
+- 自己尝试前后端搭建 blog 的一个项目，前端 React，后端 express，写成什么样也不知道，先看着来吧
